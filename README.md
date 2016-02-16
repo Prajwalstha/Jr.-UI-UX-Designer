@@ -1,4 +1,4 @@
-## Skill Assessment Tasks for UI/UX Designer
+## Skill Assessment Tasks for  Jr. UI/UX Designer
 
 We are always open to creative people who thinks out of the box.
 
@@ -22,7 +22,5 @@ You can explore above reference website. Please use content and images from the 
 
 ## Components 
 1. Make header section would be sticky.
-
 2. For Fonts try to use any of Google font
-
 3. If possible try to use icons with fonts. 
